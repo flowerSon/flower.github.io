@@ -61,5 +61,7 @@ flower Son @ website.
 <img src="http://pds25.egloos.com/pds/201208/22/00/a0109200_5034ab4a44b43.jpg" alt="ann">
 ```
 
+<img src="http://pds25.egloos.com/pds/201208/22/00/a0109200_5034ab4a44b43.jpg" alt="ann" width="200" height="200">
+
 ![ann](http://pds25.egloos.com/pds/201208/22/00/a0109200_5034ab4a44b43.jpg)
 
