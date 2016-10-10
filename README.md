@@ -84,6 +84,15 @@ HTML 언어에서는 `<blockquote>` 요소를 사용하여 인용절을 구조�
 >"네 운명을 사랑하라!"
 
 
+### 표
+
+ Job Type | Role
+ ---|---
+ Planner | Plan
+ Designer | Design
+ Developer | Develop
+
+
 
 
 
