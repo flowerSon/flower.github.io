@@ -54,3 +54,12 @@ flower Son @ website.
 1. item1
 1. item2
 1. item3
+
+### 이미지
+
+```html
+<img src="http://pds25.egloos.com/pds/201208/22/00/a0109200_5034ab4a44b43.jpg" alt="ann">
+```
+
+![ann](http://pds25.egloos.com/pds/201208/22/00/a0109200_5034ab4a44b43.jpg)
+
