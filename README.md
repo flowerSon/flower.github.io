@@ -1,6 +1,9 @@
 # flower.github.io
 flower Son @ website.
 
+# TODO
+- [x] Study Markdown
+- [ ] make `index.html`
 
 ## Markdown 문법 사용법
 
@@ -38,9 +41,16 @@ flower Son @ website.
 	<li>item1</li>
 	<li>item1</li>
 </ol>
+```
 
-
-
+#### 비순차 목록
 - item1
 - item2
 - item3
+
+
+##### 순차 목록
+
+1. item1
+1. item2
+1. item3
